@@ -1,11 +1,8 @@
 <!-- PROFILE PICTURE -->
 <p align="center">
-  <img src="https://github.com/Ahmadishaque/Ahmad-Karimi/blob/main/AhmadKarimi.png" width="200" alt="Ahmad Karimi" />
+  <img src="https://github.com/Ahmadishaque/Ahmadishaque/blob/main/AhmadKarimi.png" width="200" alt="Ahmad Karimi" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Ahmadishaque/Ahmad-Karimi/blob/main/banner.png" alt="Banner" />
-</p>
 
 <!-- TITLE & TAGLINE -->
 <h1 align="center">Hi, I'm Ahmad Karimi 👋</h1>
